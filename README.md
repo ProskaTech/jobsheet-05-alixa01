@@ -1,3 +1,7 @@
+Nama : alixa arivya tofer
+NIM : 21343040
+
+
 ## Object-oriented Programming (Lab Work) Template Guides
 1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
 2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
